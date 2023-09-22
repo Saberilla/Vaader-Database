@@ -1,5 +1,5 @@
 # Vaader-Database
-Home Optimization Project for lowest energy costs. The USP is that we use the isolated house to minimize energycosts.
+Home Optimization Project for lowest energy costs. The USP is that we use the isolated house  as a heat battery to minimize energycosts.
 
 What we do here:
 - This database has some static tables set up during installation
